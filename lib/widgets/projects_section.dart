@@ -36,16 +36,17 @@ class ProjectsSection extends StatelessWidget {
               ),
               ProjectCard(
                 title: 'Xisaabtan',
-                description: 'Financial App for small businesses and also Big ones',
+                description: 'Financial App for the small businesses and also Big ones',
                 icon: Icons.money,
                 technologies: ['Flutter', 'Django', 'SQLlite', 'Rest API'],
               ),
               ProjectCard(
-                title: 'AI Chat Bot',
-                description: 'Intelligent chatbot using machine learning',
+                title: 'Hotel Management System',
+                description: 'Modern System for Hotels Which has both Web and App',
                 icon: Icons.chat,
-                technologies: ['Flutter', 'ChatGPT-API', ],
+                technologies: ['Flutter', 'Python', 'Rest API'],
               ),
+              
             ],
           ),
         ],

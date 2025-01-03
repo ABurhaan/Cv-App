@@ -27,8 +27,11 @@ class SkillsSection extends StatelessWidget {
               _buildSkillCard('Flutter', 0.9, Icons.flutter_dash),
               _buildSkillCard('Supabase', 0.85, Icons.star),
               _buildSkillCard('Python', 0.8, Icons.javascript),
+              _buildSkillCard('Html & Css', 0.85, Icons.html),
+              _buildSkillCard('JS', 0.85, Icons.javascript),
               _buildSkillCard('Django', 0.95, Icons.code),
               _buildSkillCard('IT Support', 0.85, Icons.computer),
+              
             ],
           ),
         ],
